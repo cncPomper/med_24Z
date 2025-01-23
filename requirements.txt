@@ -1,0 +1,5 @@
+efficient_apriori
+matplotlib
+ucimlrepo
+pandas
+numpy
